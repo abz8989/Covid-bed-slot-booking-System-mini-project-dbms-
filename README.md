@@ -1,4 +1,4 @@
-# _Covid19 hospital management_
+# _Covid-19-bed slot booking  management_system
 
 
 <!-- about us & view patient -->
