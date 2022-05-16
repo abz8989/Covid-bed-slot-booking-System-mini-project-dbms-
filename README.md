@@ -17,5 +17,5 @@
 - Clone repository.
 - Setup virtual environment
 - Exceute `pip install -r requirements.txt`.
-- run `python manage.py runserver`.
+- run `tanu.py runserver`.
 - Go to `127.0.0.1::8000` in your web browser.
